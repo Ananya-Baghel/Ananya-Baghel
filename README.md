@@ -28,7 +28,6 @@
 ### 🤝 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/ananya-baghel-731a62249" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/shades_of_ananya" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://dribbble.com/ananya_baghel" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="Dribbble" height="30" width="40" /></a>
   <a href="https://discord.gg/Ananya Baghel#9341" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
@@ -37,26 +36,35 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://scilab.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Scilab_Logo.png" alt="Scilab" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 📌 GitHub Highlights
-- ✅ **Hands-on with real-time projects** like AI chatbots, web apps, and automation scripts
-- 💡 **Hackathon Participant:** Smart India Hackathon, MicroQuest — gained cross-domain team experience
-- 📊 Continuously learning through **Google programs, Coursera**, and technical internships
+### 🚀 GitHub Highlights:
+- 🔍 **Face Recognition Attendance System** – built using OpenCV and Python  
+- 🎬 **Netflix Clone Website** – HTML/CSS project replicating Netflix UI  
+- 🤖 **AI Chatbot for Ticketing Systems** – created in Smart India Hackathon  
+- 📊 **SSD Lab Projects** – Scilab and R scripts for statistical data analysis  
+- 🌐 **Web Development** – interactive frontends using HTML, CSS, JavaScript  
+- 🎨 **Figma + UI/UX Projects** – creative design prototypes for websites  
+- 🧠 **AI + NLP Projects** – stemming, lemmatization, text classification using NLTK & spaCy  
+- 🧪 **Python Experiments** – from flow control to GUI and web scraping  
+- ⚙️ **Scheduling & Algorithmic Solutions** – implemented graph problems, job scheduling, and more  
+- 🎓 Participated in **MicroQuest** (hardware + software rounds)  
+- 🧭 Continuous learning via **Google Arcade**, **Coursera**, and **internships at HCL**
 
 ---
 
-<!-- GitHub Stats Section (Optional) -->
-<!-- You can re-enable these later when you have more public repos for better accuracy -->
-
-<!--
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ananyabaghel2412&show_icons=true&theme=radical" alt="Ananya's GitHub Stats" /></p>
--->
+> ⚡ *"I don't just code — I bring creativity, curiosity, and courage into every project."*
 
 ---
